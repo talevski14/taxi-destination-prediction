@@ -4,3 +4,5 @@ data/
 *.pkl
 *.ckpt
 notebooks/finetuning/wandb/
+.env
+/models
